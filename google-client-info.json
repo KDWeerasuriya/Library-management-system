@@ -1,0 +1,11 @@
+{
+        "web": {
+    "client_id":"223090840549-g1tprrodp4uudoa9s34s1dp5djn4jp91.apps.googleusercontent.com",
+    "project_id":"fluent-oarlock-368706",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"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",
+    "redirect_uris":["http://localhost:8090/auth/google/callback"]
+    }
+}
